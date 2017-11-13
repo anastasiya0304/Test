@@ -1,0 +1,13 @@
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\nunit.framework.dll
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\WebDriver.dll
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\WebDriver.Support.dll
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\nunit.framework.xml
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\WebDriver.xml
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\bin\Debug\WebDriver.Support.xml
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\obj\Debug\MMC_tests.csprojResolveAssemblyReference.cache
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\obj\Debug\MMC_tests.csproj.CoreCompileInputs.cache
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\Serebryakovaaa\source\repos\Test1\Test1\obj\Debug\Test1.pdb
